@@ -1,5 +1,5 @@
-title: Slate theme
-description: None.
+title: Title as per _config.yml
+description: Description as per _config.yml
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
