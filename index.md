@@ -13,7 +13,7 @@
 <p><strong style="font-size: 12pt;"><span style="font-family: Verdana, sans-serif;">2 batches (500 grams) = $20</span></strong></p>
 <p><strong style="font-size: 12pt;"><span style="font-family: Verdana, sans-serif;">3 batches (750 grams) = $30</span></strong></p>
 <p><span style="font-size: 12pt;"><strong><span style="font-family: Verdana, sans-serif;">4+ batches (1kg +) $38 per kilo</span></strong></span></p>
-<div><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;"><span style="font-family: Verdana, sans-serif;"></span></span><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;"><span>Ideally it's best to consume fresh beans between 1 - 3 weeks after the roasting date.</span></span></div>
+<div><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;"><span style="font-family: Verdana, sans-serif;"></span></span><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;"><span>NOTE: As this mirco operation is a hobby rather than a business, we've simplified the website to help keep the increasing operating costs down.</span></span></div>
 <p>&nbsp;</p>
 
 
