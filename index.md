@@ -1,13 +1,3 @@
-## Welcome to GitHub Pages FG
-
-You can use the [editor on GitHub](https://github.com/authentic-espresso/authentic-espresso/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 <!-- shop -->
 <p><a href="index.php?option=com_content&amp;view=article&amp;id=9:roasted-coffee&amp;catid=10:products&amp;Itemid=116"><img src="images/espresso-club1.png" alt="" width="504" height="187" /></a></p>
 <p><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;">Experience for yourself our very own unique artisan roasted coffee beans available via Pre Order, guaranteeing absolute freshness.</span></p>
