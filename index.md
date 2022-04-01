@@ -16,3 +16,5 @@
 <div><strong style="font-family: Verdana, sans-serif; font-size: 8.5pt;">NOTE: Freshly roasted coffee should be rested for at least 5 days after roasting</strong><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;"> for flavours to develop otherwise taste can be quite acidic.</span></div>
 <div><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;"><span style="font-family: Verdana, sans-serif;"></span></span><span style="font-family: Verdana, sans-serif; font-size: 8.5pt;"><span>Ideally it's best to consume fresh beans between 1 - 3 weeks after the roasting date.</span></span></div>
 <p>&nbsp;</p>
+
+<a href="mailto:name@rapidtables.com?subject=The%20subject%20of%20the%20mail">Send mail with subject</a>
