@@ -7,7 +7,7 @@
 <iframe src="https://www.google.com/calendar/embed?title=Roasting%20Days&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=q63p9ni7fkgvamnnoq9ulao3p8%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Australia%2FSydney" style=" border-width:0 " width="520" height="300" frameborder="0" scrolling="no"></iframe>
 <p>&nbsp;</p>
 <p><span style="font-size: 8.5pt; font-family: Verdana, sans-serif;">Each batch is prepared and roasted with love then hand packaged in quality sealed bags to maintain freshness</span>.&nbsp;</p>
-<p><span style="font-size: 8.5pt; font-family: Verdana, sans-serif;">To place an order or ask a question, simply click on this -> <a style="font-weight:bold" href="mailto:fiorello.galluzzo@gmail.com?subject=Coffee%20Order%20of%20the%20mail"> CONTACT </a> link, enter your required batch quantity and any other information and we'll be in touch with you shortly.</span></p>
+<p><span style="font-size: 8.5pt; font-family: Verdana, sans-serif;">To place an order or ask a question, simply click on this -> <a style="font-weight:bold" href="mailto:fiorello.galluzzo@gmail.com?subject=Coffee%20Order"> CONTACT </a> link, enter your required batch quantity and any other information and we'll be in touch with you shortly.</span></p>
 <p><strong><span style="font-size: 14pt; font-family: Verdana, sans-serif;">Classic Espresso Blend </span></strong></p>
 <p><strong style="font-size: 12pt;"><span style="font-family: Verdana, sans-serif;">1 batch (250 grams) = $11</span></strong></p>
 <p><strong style="font-size: 12pt;"><span style="font-family: Verdana, sans-serif;">2 batches (500 grams) = $20</span></strong></p>
