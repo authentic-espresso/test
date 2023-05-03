@@ -5,15 +5,5 @@
 <p><span style="font-family: Verdana, sans-serif; font-size: 10pt;"><span style="font-family: Verdana, sans-serif;">Roasting is generally done weekly as per the calendar below.</span></span></p>
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-<p><span style="font-size: 10pt; font-family: Verdana, sans-serif;">Each batch is prepared and roasted with love then hand packaged in quality sealed bags to maintain freshness</span>.&nbsp;</p>
-<p><span style="font-size: 10pt; font-family: Verdana, sans-serif;">To place an order or ask a question, simply click on this -> <a style="font-weight:bold" href="mailto:fiorello.galluzzo@gmail.com?subject=Coffee%20Order"> CONTACT </a> link, enter your required batch quantity and any other information and we'll be in touch with you shortly.</span></p>
-<p><strong><span style="font-size: 14pt; font-family: Verdana, sans-serif;">Classic Espresso Blend </span></strong></p>
-<p><strong style="font-size: 12pt;"><span style="font-family: Verdana, sans-serif;">1 batch (250 grams) = $11</span></strong></p>
-<p><strong style="font-size: 12pt;"><span style="font-family: Verdana, sans-serif;">2 batches (500 grams) = $20</span></strong></p>
-<p><strong style="font-size: 12pt;"><span style="font-family: Verdana, sans-serif;">3 batches (750 grams) = $30</span></strong></p>
-<p><span style="font-size: 12pt;"><strong><span style="font-family: Verdana, sans-serif;">4+ batches (1kg +) $38 per kilo</span></strong></span></p>
-<div><span style="font-family: Verdana, sans-serif; font-size: 8pt;">NOTE: As this mirco operation is a hobby rather than a business, we've simplified the website to help keep the increasing operating costs down.</span></div>
-<p>&nbsp;</p>
 
 
